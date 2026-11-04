@@ -1,4 +1,4 @@
-#Volunter Pembuatan Aplikasi
+# Volunter Pembuatan Aplikasi
 Repositor ini digunakan untuk mencari volunter untuk pengembangan aplikasi generate akun buzzer.  
 Jika anda tertarik, silahkan lakukan PR(pull-request) pada berkas ini yaah.  
   
